@@ -1,7 +1,7 @@
 {
   "name": "spooki",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Dark blueish theme.",
   "repository": "https://github.com/skotarac/atom-spooki",
   "license": "MIT",
