@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.4.0",
   "description": "Dark blueish theme.",
-  "repository": "https://github.com/skotarac/atom-spooki",
+  "repository": "https://github.com/kotarac/atom-spooki",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
